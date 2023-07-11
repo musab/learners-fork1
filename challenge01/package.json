@@ -1,0 +1,15 @@
+{
+  "name": "challenge01",
+  "version": "1.0.0",
+  "description": "Create a for loop that outputs 123",
+  "main": "forloop.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.33.0"
+  }
+}
