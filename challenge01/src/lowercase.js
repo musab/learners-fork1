@@ -1,3 +1,3 @@
 export function lowercase(input) {
-  // complete the challenge here
+  return input.toLowerCase();
 }
